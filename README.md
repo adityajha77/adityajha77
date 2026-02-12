@@ -70,13 +70,13 @@
 ## 🏆 Achievements & Profiles
 
 <p align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=)]() 
-  [![Codeforces Badge](https://img.shields.io/badge/-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/adityajha77)](https://codeforces.com/profile/adityajha77) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-jha-72493a319)](https://www.linkedin.com/in/aditya-kumar-jha-72493a319) 
+  [![Codeforces Badge](https://img.shields.io/badge/-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/adityajha7)](https://codeforces.com/profile/adityajha7) 
   [![CodeChef Badge](https://img.shields.io/badge/-5★-FFA700?style=flat-square&logo=codechef&logoColor=white&link=)]() 
-  [![LeetCode Badge](https://img.shields.io/badge/-Guardian-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=)]() 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white&link=https://aditya-portfolio-tau.vercel.app/)]() 
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white&link=https://aditya-portfolio-tau.vercel.app/)](https://aditya-portfolio-tau.vercel.app/) 
   [![X Badge](https://img.shields.io/badge/@Aditya-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=)]()
 </p>
+
 
 ---
 
