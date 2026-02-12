@@ -70,12 +70,13 @@
 ## 🏆 Achievements & Profiles
 
 <p align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-jha-72493a319)](https://www.linkedin.com/in/aditya-kumar-jha-72493a319) 
-  [![Codeforces Badge](https://img.shields.io/badge/-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/adityajha7)](https://codeforces.com/profile/adityajha7) 
-  [![CodeChef Badge](https://img.shields.io/badge/-5★-FFA700?style=flat-square&logo=codechef&logoColor=white&link=)]() 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white&link=https://aditya-portfolio-tau.vercel.app/)](https://aditya-portfolio-tau.vercel.app/) 
-  [![X Badge](https://img.shields.io/badge/@Aditya-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=)]()
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-jha-72493a319)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/adityajha7)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5★-FFA700?style=for-the-badge&logo=codechef&logoColor=white)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-portfolio-tau.vercel.app/)
+  [![X](https://img.shields.io/badge/X-@Aditya-000000?style=for-the-badge&logo=x&logoColor=white)]()
 </p>
+
 
 
 ---
