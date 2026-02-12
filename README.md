@@ -1,10 +1,10 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Full Stack Developer | Web3 & dApp Builder | Blockchain Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aditya Kumar Jha</h1>
+<h3 align="center">Full Stack Developer | Web3 & dApp Builder | Blockchain Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://aditya-portfolio-tau.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Web3+Developer;Building+dApps+on+Blockchain;Smart+Contracts+%7C+DeFi;React+%7C+Next.js+%7C+Solidity+%7C+Rust;Always+Learning+%26+Shipping+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Web3+Developer;Building+dApps+on+Blockchain;Smart+Contracts+%7C+DeFi;React+%7C+Next.js+%7C+Solidity+%7C+Rust+%7C+C%2B%2B;Always+Learning+%26+Shipping+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,15 +16,15 @@
 - 🛠 Building full-stack applications with Web3 integration  
 - 📜 Writing and deploying Smart Contracts  
 - 🌐 Exploring DeFi & DAO ecosystems  
-- 💻 Competitive coding enthusiast: active on **Codeforces**  
-- 🦀 Learning **Rust** for blockchain & Web3 projects  
+- 💻 Competitive coding enthusiast: **Expert on Codeforces**  **C++**
+- 🦀 Learning **Rust** for high-performance blockchain & Web3 projects  
 - ⚡ Turning complex blockchain logic into clean UI experiences  
 
 ---
 
-## ⛓️ Web3 & Blockchain Stack
+## 🛠️ Tech Stack
 
-### 🧠 Smart Contracts
+### ⛓️ Web3 & Blockchain
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-000?logo=javascript)
@@ -34,51 +34,49 @@
 ![Web3.js](https://img.shields.io/badge/-Web3.js-000?logo=web3.js)
 ![MetaMask](https://img.shields.io/badge/-MetaMask-000?logo=metamask)
 
----
-
-## 💻 Full Stack Tech
-
-### 🎨 Frontend
+### 💻 Full Stack
 ![React](https://img.shields.io/badge/-React-000?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwind-css)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
-
-### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express)
-
-### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql)
+![C](https://img.shields.io/badge/-C-000?logo=c)
+![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B)
 
 ---
 
-## 🧩 Web3 Projects
+## 🧩 Projects / dApps
 
 | Project | Description | Stack |
-|----------|-------------|-------|
+|---------|-------------|-------|
 | 🔐 Decentralized Voting dApp | Smart contract based secure voting system | Solidity, React, Ethers.js |
 | 💰 DeFi Staking App | Token staking & reward distribution | Solidity, Next.js |
-| 🌐 Portfolio (Web3 Ready) | Personal dev portfolio | Next.js, Tailwind |
+| 🌐 Portfolio (Web3 Ready) | Personal developer portfolio | Next.js, Tailwind |
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Total contributions & basic stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=adityajha77&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <!-- Current streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajha77&theme=tokyonight&hide_border=true&mode=weekly&show_max_streak=false" height="170"/>
-  
-  <!-- Max streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajha77&theme=tokyonight&hide_border=true&show_max_streak=true" height="170"/>
 </p>
 
+---
+
+## 🏆 Achievements & Profiles
+
+<p align="center">
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=)]() 
+  [![Codeforces Badge](https://img.shields.io/badge/-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/adityajha77)](https://codeforces.com/profile/adityajha77) 
+  [![CodeChef Badge](https://img.shields.io/badge/-5★-FFA700?style=flat-square&logo=codechef&logoColor=white&link=)]() 
+  [![LeetCode Badge](https://img.shields.io/badge/-Guardian-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=)]() 
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white&link=https://aditya-portfolio-tau.vercel.app/)]() 
+  [![X Badge](https://img.shields.io/badge/@Aditya-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=)]()
+</p>
 
 ---
 
