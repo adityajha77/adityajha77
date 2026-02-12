@@ -66,9 +66,19 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajha77&theme=tokyonight&hide_border=true&show_max_streak=true" height="170"/>
+  <!-- Total contributions & basic stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adityajha77&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <!-- Current streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajha77&theme=tokyonight&hide_border=true&mode=weekly&show_max_streak=false" height="170"/>
+  
+  <!-- Max streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajha77&theme=tokyonight&hide_border=true&show_max_streak=true" height="170"/>
 </p>
+
 
 ---
 
