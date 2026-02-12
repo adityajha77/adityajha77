@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://aditya-portfolio-tau.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Web3+Developer;Building+dApps+on+Blockchain;Smart+Contracts+%7C+DeFi+%7C+NFTs;React+%7C+Next.js+%7C+Solidity;Always+Learning+%26+Shipping+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Web3+Developer;Building+dApps+on+Blockchain;Smart+Contracts+%7C+DeFi;React+%7C+Next.js+%7C+Solidity+%7C+Rust;Always+Learning+%26+Shipping+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,12 +12,13 @@
 
 ## 🚀 About Me
 
-- 🔗 Passionate about **Blockchain & Decentralized Applications (dApps)**
-- 🛠 Building full-stack applications with Web3 integration
-- 📜 Writing and deploying Smart Contracts
-- 🌐 Exploring DeFi, NFTs & DAO ecosystems
-- 💡 Focused on creating secure, scalable & user-friendly decentralized products
-- ⚡ Turning complex blockchain logic into clean UI experiences
+- 🔗 Passionate about **Blockchain & Decentralized Applications (dApps)**  
+- 🛠 Building full-stack applications with Web3 integration  
+- 📜 Writing and deploying Smart Contracts  
+- 🌐 Exploring DeFi & DAO ecosystems  
+- 💻 Competitive coding enthusiast: active on **Codeforces**  
+- 🦀 Learning **Rust** for blockchain & Web3 projects  
+- ⚡ Turning complex blockchain logic into clean UI experiences  
 
 ---
 
@@ -26,8 +27,8 @@
 ### 🧠 Smart Contracts
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
-![Hardhat](https://img.shields.io/badge/-Hardhat-000?logo=ethereum)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-000?logo=javascript)
+![Rust](https://img.shields.io/badge/-Rust-000?logo=rust)
 
 ### 🌐 Web3 Integration
 ![Web3.js](https://img.shields.io/badge/-Web3.js-000?logo=web3.js)
@@ -59,7 +60,6 @@
 |----------|-------------|-------|
 | 🔐 Decentralized Voting dApp | Smart contract based secure voting system | Solidity, React, Ethers.js |
 | 💰 DeFi Staking App | Token staking & reward distribution | Solidity, Next.js |
-| 🎨 NFT Minting Platform | Mint & manage NFTs on Ethereum | Solidity, IPFS, Web3.js |
 | 🌐 Portfolio (Web3 Ready) | Personal dev portfolio | Next.js, Tailwind |
 
 ---
@@ -68,7 +68,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&mode=weekly" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&mode=weekly&show_max_streak=true" height="170"/>
 </p>
 
 ---
@@ -81,13 +82,14 @@
 
 ---
 
-## 🛣️ Web3 Journey Timeline
+## 🛣️ Web3 & Coding Journey Timeline
 
 ```text
 2026 — 🚀 Web3 Developer
-        • Building dApps with Solidity & React
+        • Building dApps with Solidity & Rust
         • Deploying smart contracts on Ethereum
         • Integrating Web3 wallets (MetaMask)
+        • Active competitive coding on Codeforces
 
 2025 — 💼 Full Stack Developer
         • Developed scalable MERN applications
