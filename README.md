@@ -70,11 +70,25 @@
 ## 🏆 Achievements & Profiles
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-jha-72493a319)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/adityajha7)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5★-FFA700?style=for-the-badge&logo=codechef&logoColor=white)]()
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-portfolio-tau.vercel.app/)
-  [![X](https://img.shields.io/badge/X-@Aditya-000000?style=for-the-badge&logo=x&logoColor=white)]()
+  <a href="https://www.linkedin.com/in/aditya-kumar-jha-72493a319">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/adityajha7">
+    <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/CodeChef-5★-FFA700?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  
+  <a href="https://aditya-portfolio-tau.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/X-@Aditya-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 
