@@ -78,16 +78,13 @@
     <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   
-  <a href="#">
-    <img src="https://img.shields.io/badge/CodeChef-5★-FFA700?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
   
   <a href="https://aditya-portfolio-tau.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/X-@Aditya-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@KumarAdity7093?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
