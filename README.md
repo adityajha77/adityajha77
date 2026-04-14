@@ -83,9 +83,9 @@
     <img src="https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   
-  <a href="#">
-    <img src="https://img.shields.io/badge/X-@KumarAdity7093?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+ <a href="https://x.com/KumarAdity7093">
+  <img src="https://img.shields.io/badge/X-%40KumarAdity7093-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 </p>
 
 
